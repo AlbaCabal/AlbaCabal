@@ -4,7 +4,6 @@ I'm a **Web Application Development** student based in Spain, passionate about b
 
 I'm currently in my first year of a two-year program, working with Java, Python, SQL, HTML, CSS, JavaScript, Docker, and AWS. Outside of class, I build my own projects to go deeper than the curriculum allows.
 
----
 
 ## 🛠 Technologies
 
@@ -17,7 +16,6 @@ I'm currently in my first year of a two-year program, working with Java, Python,
 **Coming up this year**
 `AWS` `UML` `Node.js`
 
----
 
 ## 📂 Projects
 
@@ -26,7 +24,6 @@ A web app that helps English learners practice vocabulary by replacing simple wo
 
 > `Python` `Flask` `SQLite` `JavaScript` `Datamuse API`
 
----
 
 ## 📚 Currently learning
 
@@ -34,7 +31,6 @@ A web app that helps English learners practice vocabulary by replacing simple wo
 - Git workflows: branching, pull requests, semantic commits
 - JavaScript from the ground up: DOM, fetch, async/await
 
----
 
 ## 🌱 A bit more about me
 
@@ -43,11 +39,9 @@ A web app that helps English learners practice vocabulary by replacing simple wo
 - 🌍 Working towards a C1 English certificate
 - 💡 I like understanding *why* things work, not just *how* to make them work
 
----
 
 *This profile is updated as I learn and build. More projects coming.*
 
----
 ---
 
 # Hola, soy Alba 👋
@@ -56,7 +50,6 @@ Estudiante de **Desarrollo de Aplicaciones Web** apasionada por construir cosas 
 
 Estoy en primero de un ciclo de dos años, trabajando con Java, Python, SQL, HTML, CSS, JavaScript, Docker y AWS. Fuera de clase, construyo proyectos propios para ir más allá de lo que se ve en el temario.
 
----
 
 ## 🛠 Tecnologías
 
@@ -69,7 +62,6 @@ Estoy en primero de un ciclo de dos años, trabajando con Java, Python, SQL, HTM
 **En el horizonte este año**
 `AWS` `UML` `Node.js`
 
----
 
 ## 📂 Proyectos
 
@@ -78,7 +70,6 @@ Una aplicación web que ayuda a estudiantes de inglés a practicar vocabulario r
 
 > `Python` `Flask` `SQLite` `JavaScript` `Datamuse API`
 
----
 
 ## 📚 Aprendiendo ahora
 
@@ -86,7 +77,6 @@ Una aplicación web que ayuda a estudiantes de inglés a practicar vocabulario r
 - Flujos de trabajo con Git: ramas, pull requests, commits semánticos
 - JavaScript desde la base: DOM, fetch, async/await
 
----
 
 ## 🌱 Un poco más sobre mí
 
@@ -95,6 +85,5 @@ Una aplicación web que ayuda a estudiantes de inglés a practicar vocabulario r
 - 🌍 Preparando el certificado C1 de inglés
 - 💡 Me gusta entender el *por qué* de las cosas, no solo el *cómo* hacerlas funcionar
 
----
 
 *Este perfil se actualiza según aprendo y construyo. Más proyectos próximamente.*
